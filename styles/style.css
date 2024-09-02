@@ -283,3 +283,133 @@ font-size: 15PX;
 
     margin-top: 30px;
 }
+
+
+.section8{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    
+}
+.section8 input{
+    background-color: transparent;
+    border-color: #E5E5E3;
+
+ 
+}
+.section8 .contain8{
+    background-color:black ;
+    height: 400px;
+    width: 400px;
+    color: white;
+    margin-right: 20px;
+}
+.section8 .box1 {
+ display: flex;
+justify-content: space-around;
+
+}
+
+
+.section8 .box1 input {
+   width: 150px;
+   height: 15px;
+   margin: 10px ;
+   }
+   
+   
+.section8 .box2 {
+    margin-left: 20px;
+}
+
+.section8 .box2 input{
+    width: 350px;
+}
+
+.section8 .box3 {
+    margin-left: 20px;
+}
+
+.section8 .box3 input{
+    width: 350px;
+}
+
+.section8 .box4 {
+    margin-left: 20px;
+}
+
+.section8 .box4 input{
+    width: 350px;
+    height: 100px;
+}
+
+.section8 .contain8 p{
+   margin-left: 20px;
+    font-size: 10px;
+    width: 350px;
+}
+
+
+.section8 .contain8-2 p{
+    width: 400px;
+    
+
+
+}
+
+
+.section9{
+    background-color:#FFD700;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.section9 button{
+  background-color: #000;
+  color: #E6E6E6;
+
+  margin: 10px;
+}
+
+footer{
+    padding: 10px;
+    background-color: black;
+    height: 500px;
+
+}
+
+footer .listas{
+    display: flex;
+    color:#FFD700;
+    margin-top: 200px;
+}
+
+footer .end{
+    display: flex;
+    color: #FFD700;
+    justify-content: space-between;
+}
+
+footer .imagenes {
+ color: #FFD700;
+
+}
+
+footer img{
+   margin-left: 25px;
+  
+}
+
+
+
+iframe{
+    width: 1200PX;
+    height: 500PX;
+}
+@media screen and (max-width:480px) {
+    
+}
