@@ -411,5 +411,207 @@ iframe{
     height: 500PX;
 }
 @media screen and (max-width:480px) {
+    .logo img {
+        height: 25px;
+        margin-left: 5px;
+    }
     
+    nav ul {
+   font-size: 12px;
+    }
+
+    .title-section3 {
+        width: 0px;
+    }
+
+       .section1{
+        flex-direction: column;
+        margin: 10px;
+       }
+       .section1 p{
+        width: 400px;
+      
+       }
+       .section1 .title{
+        font-size: 30px;
+       }
+       .section1 .text1{
+        width: 200px;
+        font-size: 10px;
+       }
+      
+       .section2{
+        flex-direction: column;
+     
+       }
+     
+       .section2{
+        margin:none;
+        max-width: none;
+        position: none;
+        margin: -10px;
+        padding: NONE;
+        width: 300PX;
+       }
+
+        .caja{
+          
+        
+        }
+ .section3{
+    margin: none;
+height: 400px;
+padding: 171PX;
+margin-top: -150px;
+    
+ }
+       
+       .section3 h2 {
+        font-size: 20px;
+       width: 300px;
+        position:relative ;
+        right: 150px;
+      }
+      .section3 p {
+        font-size: 10px;
+       width: 200px;
+       position:relative ;
+       right: 150px;
+      }
+      .section3 button {
+        margin-top: 10px;
+        
+      }
+
+
+     
+       .section3 img{
+         position:none;
+            left: -160px;
+            top: 150px;
+        height: 150px;
+        width: 300px;
+       }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+          .contain4{
+            flex-direction: column; 
+            height: 900px;
+            width: 300px;
+        }
+        
+      
+        .section4 .contain4 .box1 img {
+            height: 300px;
+            width: 300px;
+        }
+        .section4 img {
+            top: 10px;
+            left: 30px;
+            height: 80px;
+            width: 80px;
+        }
+        .section4 .box2 p{
+           font-size: 20px;
+           width: 200px;
+          }
+          .section4 .box2 {
+        margin: 10PX;
+           }
+         
+          .section5 p{
+            width: 300px;
+          }
+        
+          .section5 img{
+            height: 150px;
+            width: 300px;
+          }
+
+
+
+
+          .section6{
+            flex-direction: column;
+          }
+          .section6 img{
+            height: 150px;
+            width: 300px;
+            margin: 10PX;           
+          }
+          .section6 p{
+            width: 300px;
+             }
+
+          .section7{
+            flex-direction: column;
+          }
+          .section7 p{
+         width: 300px;
+          }
+          .section7 img{
+           height: 150px;
+           width: 300px;
+           margin: 10PX;
+          }
+
+          .section8 .box1 input {
+            width: 100px;
+            height: 15px;
+            margin: 10px ;
+            }
+            .section8 .box2 input{
+                width: 250px;
+            }
+            .section8 .box3 input{
+                width: 250px;
+            }
+            .section8 .box4 input{
+                width: 250px;
+                height: 50px;
+            }
+
+          .section8{
+            flex-direction: column;
+          }
+
+          .section8 .contain8{
+            height: 400px;
+    width: 300px;
+          }
+
+          .section8 .contain8 p{
+            margin-left: 20px;
+             font-size: 10px;
+             width: 150px;
+         }
+
+         .section8 .contain8-2 p{
+            width: 300px;
+            
+        
+        
+        }
+
+
+
+          .section9 iframe{
+            height: 150px;
+            width:300px;
+          }
 }
