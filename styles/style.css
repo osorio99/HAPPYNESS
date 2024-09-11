@@ -11,6 +11,9 @@ header {
     align-items: center;
     justify-content: space-between;
     padding: 10px 20px;
+    position: sticky;
+    top: 1px;
+    z-index: 2;
 }
 
 .logo img {
@@ -454,10 +457,7 @@ iframe{
         width: 300PX;
        }
 
-        .caja{
-          
-        
-        }
+     
  .section3{
     margin: none;
 height: 400px;
